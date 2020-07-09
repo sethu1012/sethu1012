@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm a tech enthusiast, part-time pen-tester and a full-stack developer. Currently working on React, Next.js and Java.
+
+Love learning new programming languages and frameworks. 
 
 <!--
 **sethu1012/sethu1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
