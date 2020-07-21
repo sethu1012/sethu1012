@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![sethuraman github stats](https://github-readme-stats.vercel.app/api?username=sethu1012&show_icons=true)
+
 I'm a tech enthusiast, part-time pen-tester and a full-stack developer. Currently working on React, Next.js and Java.
 
 Love learning new programming languages and frameworks. 
